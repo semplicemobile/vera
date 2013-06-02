@@ -1,0 +1,9 @@
+[
+
+    {
+        "id"        : "wallpaper",
+        "type"      : "ClutterTexture",
+        "filename"  : "/home/g7/semplice/mobile/vera/vera/wall.png"
+    }
+
+]
